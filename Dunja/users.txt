@@ -1,0 +1,7 @@
+Ana;Savic;Teretana - Mesecno;true;2019-07-24;2019-09-27;3000
+Bojan;Trudic;Teretana - Mesecno;true;2019-02-02;2019-03-02;1500
+Drenka;Krstic;Body pump -  x 8;true;2019-08-23;2019-08-23;300
+Dunja;Madzic;Teretana + spining -  x 12;true;2015-01-03;2015-01-07;2000
+Nina;Ninic;Teretana - Mesecno;true;2015-05-01;2015-05-02;1500
+Smilja;Lekic;Teretana - Mesecno;true;2019-03-02;2019-04-02;1500
+sdcsd;sdcs;Teretana - Mesecno;true;2016-01-02;2019-03-02;500
